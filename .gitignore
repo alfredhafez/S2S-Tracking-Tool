@@ -1,0 +1,9 @@
+# Ignore sensitive config files
+config.php
+.env
+# Vendor/IDE
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+/*.log
